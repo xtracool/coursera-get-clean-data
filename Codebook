@@ -35,6 +35,7 @@ o	In this directory you will find 3 txt files that describe in human readable fo
 15.	From X_test and X_train select columns that are related to “std” and “mean”
 16.	Merge ALL the test data frames together: s_test, X_test, y_test and add column names
 17.	Merge ALL the train data frames together: s_train, X_train, y_train and add column names
+  o All merged data will be in the data frame called: data
 18.	“Part 1” of project
   o	Combine the test and train data frames to create a single data frame.
   o	Remove any possible duplicate columns
